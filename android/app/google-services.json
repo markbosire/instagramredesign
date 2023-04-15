@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "825835658021",
+    "project_id": "igredesign",
+    "storage_bucket": "igredesign.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825835658021:android:cb590f14dceeeb477358cc",
+        "android_client_info": {
+          "package_name": "com.example.instagram_redesign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825835658021-8dqk1ps73em4fb87523pksj2c3n54bbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwZGdPiVw-k3QW89j3goavm90CKZigF8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825835658021-8dqk1ps73em4fb87523pksj2c3n54bbs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
